@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+div{
+  margin: 0 auto;
+  background: linear-gradient(#76278F, #a62fb9);
+
+}
+
+#intro{
+  height: 100vh;
+  width: 100%;
+  padding-top: 50%;
+}
+
+img{
+  margin: 0 auto;
+  width: 100%;
+  padding: 15%;
+}
