@@ -1,0 +1,20 @@
+.bg-img{
+  background-image: url('../assets/images/lyft.jpg');
+  background-size: cover;
+  height: 100vh;
+}
+
+.boton{
+  background: none;
+  color: white;
+
+}
+
+.center{
+  margin: 0 auto;
+}
+
+.logo{
+  padding: 5%;
+  margin:25% auto;
+}
